@@ -18,7 +18,7 @@
 
 - 3 GCC Command Options ... 9
 
-- 4 C Implementation-Defined Behavior ... 529
+- [4 C Implementation-Defined Behavior](04-c-implementation-defined-behavior.md) ... 529
 
 - 5 C++ Implementation-Defined Behavior ... 539
 
